@@ -5,3 +5,6 @@
 [submodule "deeptrafo"]
 	path = deeptrafo
 	url = https://github.com/cran/deeptrafo
+[submodule "tramicp"]
+	path = tramicp
+	url = https://github.com/lucaskook/tramicp
