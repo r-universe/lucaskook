@@ -8,3 +8,6 @@
 [submodule "tramicp"]
 	path = tramicp
 	url = https://github.com/lucaskook/tramicp
+[submodule "tramnet"]
+	path = tramnet
+	url = https://codeberg.org/lucaskook/tramnet
