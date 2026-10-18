@@ -11,3 +11,6 @@
 [submodule "tramnet"]
 	path = tramnet
 	url = https://codeberg.org/lucaskook/tramnet
+[submodule "tramvs"]
+	path = tramvs
+	url = https://codeberg.org/lucaskook/tramvs
